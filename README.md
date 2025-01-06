@@ -42,6 +42,8 @@
      ```
 
 ---
+![image](https://github.com/user-attachments/assets/1f61ae38-a4e9-4a63-b5b4-712d3d4d0d4d)
+
 
 ## 💻 Technologies Used
 
